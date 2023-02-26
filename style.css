@@ -92,6 +92,10 @@ button{
     border-style: none;
 }
 
+button:hover{
+    cursor: pointer;
+}
+
 .info-header{
     font-size: 36px;
     font-weight: bolder;
